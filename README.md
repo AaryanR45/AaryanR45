@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there! I'm **Aaryan Risal**  
+# Hi! I'm **Aaryan Risal**  
 💻 *Automation Tester* • 🧠 *QA Engineer* • 🌐 *Full-Stack Developer* • 🚀 *Tech Enthusiast*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AaryanR45&label=Profile%20views&color=0e75b6&style=flat-square)
@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 </p>
 
 ### ⚙️ **Frameworks & Tools**
