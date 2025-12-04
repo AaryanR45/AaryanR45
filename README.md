@@ -54,17 +54,6 @@
 
 ---
 
-## 📊 GitHub Insights
-<div align="center">
-  
-![Aaryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AaryanR45&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AaryanR45&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
-</div>
-
----
-
 ## 💬 Connect With Me
 <div align="center">
 
